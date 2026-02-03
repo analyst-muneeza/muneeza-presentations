@@ -1,0 +1,23 @@
+# Medical Cost Analysis Dashboard
+
+🎥 Project Walkthrough Video  
+https://youtu.be/YOUR_LINK
+
+## 🧰 Tools Used
+- Excel
+- Pivot Tables
+- KPI Dashboard
+- Data Cleaning
+
+## 📊 Project Summary
+Built an Excel-based dashboard to analyze medical insurance costs, demographic drivers, and spending patterns.
+
+## 🔍 Key Insights
+- Age and BMI strongly influence charges
+- Smokers incur significantly higher costs
+- Regional cost differences identified
+- Family size impact analyzed
+
+## 📸 Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
