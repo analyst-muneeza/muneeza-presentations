@@ -1,7 +1,12 @@
 Credit Risk Analysis Dashboard  
 
-🎥 Project Walkthrough Video  
+## 🎥 Project Walkthrough Video  
 https://youtu.be/k_f0hc4jI7w 
+
+## 📊 Presentation Deck  
+Download the full business case here:  
+[Credit_Risk_Analysis_Presentation.pptx](./Credit_Risk_Analysis_Presentation.pptx)
+
 
 🧰 Tools Used  
 Power BI  
