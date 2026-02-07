@@ -1,7 +1,11 @@
 Madrid House Price Analysis Dashboard  
 
-🎥 Project Walkthrough Video  
+## 🎥 Project Walkthrough Video  
 https://youtu.be/MvVBwHTf5j0
+
+## 📊 Presentation Deck  
+Download the full business case here:  
+[Madrid_House_Price_Analysis_Presentation.pptx](./Madrid_House_Price_Analysis_Presentation.pptx)
 
 🧰 Tools Used  
 Power BI  
