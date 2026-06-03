@@ -1,6 +1,8 @@
- Retail Sales Analysis Dashboard
+ ## Retail Sales Analysis Dashboard
+ 
+## Download Project File
 
- Project Files Download: https://docs.google.com/spreadsheets/d/15BKMGYaAZoRyjG5hRZHzD0iPwZqiZ0tr/edit?usp=sharing&ouid=108936610654920574751&rtpof=true&sd=true
+📥 [Click Here to Download Excel Dashboard](https://1drv.ms/x/c/5e67a7e5bc87a74e/IQCvZJPUlZGsSJHdg9z-Xi7IAX2hSbGLq1eQjGkyGPL5Uxw?e=bUr4Av)
 
 ## 🎥 Project Walkthrough Video
 https://youtu.be/skvNYRAHqRc
